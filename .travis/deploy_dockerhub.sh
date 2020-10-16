@@ -7,4 +7,4 @@ else
 fi
 REPO="/cicd-buzz"
 docker build -f Dockerfile -t $DOCKER_USER$REPO:$TAG .
-docker push $DOCKER_USER$REPO:$TAG
+docker push $DOCKER_USER$REPO:$TAG 
