@@ -1,7 +1,3 @@
-notifications:
-  email:
-    - m.osamwonyi@gmail.com
-
 sudo: required
 
 services:
